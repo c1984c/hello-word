@@ -1,3 +1,7 @@
 myfirst version = 1;
 code: 123
 code: 456
+
+myseceond version = 2;
+code: xxx
+code: yyy
