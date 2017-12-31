@@ -12,6 +12,3 @@ cod: sss
 code:kkkk
 
 
-myforthversion = 4;
-dddd
-dfff
