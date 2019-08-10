@@ -1,25 +1,3 @@
 myfirst version = 1;
-code: 123
-cei
 
-
-
-
-sdfsd
-
-
-sdfs
-d
-
-sdf
-
-sdf
-sdf
-
-
-
-sdf
-
-sdf
-sdf
-de: 456
+hello2
